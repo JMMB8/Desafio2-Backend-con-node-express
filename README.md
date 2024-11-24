@@ -10,10 +10,15 @@ API (Backend)
 El backend permite interactuar con las canciones a través de las siguientes rutas:
 
 GET /canciones: Devuelve todas las canciones del repertorio.
+
 GET /canciones/:id: Devuelve una canción específica por su ID.
+
 POST /canciones: Permite agregar una nueva canción al repertorio.
+
 PUT /canciones/:id: Permite editar una canción existente.
+
 DELETE /canciones/:id: Permite eliminar una canción.
+
 Frontend (Interfaz de Usuario)
 La interfaz permite:
 
