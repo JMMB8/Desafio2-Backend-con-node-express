@@ -22,7 +22,7 @@ DELETE /canciones/:id: Permite eliminar una canción.
 Frontend (Interfaz de Usuario)
 La interfaz permite:
 
-Ver la lista de canciones en una tabla.
-Agregar nuevas canciones al repertorio.
-Editar canciones existentes.
+Ver la lista de canciones en una tabla. 
+Agregar nuevas canciones al repertorio. 
+Editar canciones existentes. 
 Eliminar canciones.
